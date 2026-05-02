@@ -132,6 +132,10 @@ In `news-famous-voices.html`, find this line and replace:
 | 🏴‍☠️ Pirate Captain | Microsoft George (gruff) | Dramatic sea adventure |
 | ✏️ Custom | Google US (default) | Any person you type! |
 
+## 📁 Screenshots
+<img width="998" height="604" alt="Screenshot 2026-05-02 171535" src="https://github.com/user-attachments/assets/5e648b28-648f-415a-b4c2-e80dd8dcc1b0" />
+<img width="1600" height="1680" alt="screencapture-file-E-voice-agent-html-2026-05-02-17_27_57" src="https://github.com/user-attachments/assets/0941ac4f-0a36-438c-8d19-d714c4c666ba" />
+
 ---
 
 ## 🔑 Environment Variables
